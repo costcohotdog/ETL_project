@@ -10,5 +10,5 @@
   * `county_FIPS.csv` = Zip-county dataset containing unique county FIPS code rows, used for adding counties to the prescription data and relating tables in the SQL database
 * [Overdoses](https://github.com/L0per/ETL_project/tree/master/overdoses)
   * `mcd_usa.ipynb` = Notebook for transforming raw overdose data
-  * `raw_data' = Raw overdose data, refer to notebook for details.
+  * `raw_data` = Raw overdose data, refer to notebook for details.
   * `overdoses.csv` = `.csv` output of pandas dataframe of transformed data
