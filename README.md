@@ -1,4 +1,6 @@
 ## Files
+
+* [Presentation Slides](https://docs.google.com/presentation/d/15tBVzXuIkXK8ANEyotkgdfnhH2EXMQChzMpK05qfCf8/edit?usp=sharing)
 * [Database](https://github.com/L0per/ETL_project/tree/master/database)
   ![ERD](https://github.com/L0per/ETL_project/blob/master/database/ERD_img.png?raw=true)
   * `overdoese_pres_ETL.sql` = PostgreSQL database containing all final data
